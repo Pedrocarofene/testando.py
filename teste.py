@@ -1,10 +1,14 @@
-print ("teste aleatorio")
+print ("teste basico")
 
-idade = 18
-usuario = int(input("quantos anos vc tem?"))
+nome = input("digite seu nome: ")
+idade = int(input("digite sua idade: "))
 
-if usuario >= idade:
-    print ("vc é maior de idade!!")
+if idade >= 18:
+    print(f"{nome}, você é maior de idade!!")
+else :
+    print(f"{nome}, você não e maior de idade!!")
 
-else:
-    print("vc nao é de maior!!")
+
+
+   # float()   para números com vírgula
+   # str()     transforma em texto
