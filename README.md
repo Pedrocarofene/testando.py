@@ -1,7 +1,9 @@
 <<<<<<< HEAD
-teste de python
-=======
-## Olá Sou Pedro Carofene
+# Teste de Python
+
+## 👋 Olá! Sou Pedro Carofene
+
+### 💻 Tecnologias que estou estudando:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -9,5 +11,20 @@ teste de python
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
->>>>>>> c67b17c78deaebdf7abde9807b1623e94f4196d6
+
+---
+
+## 🧪 Exercícios Python
+
+| Exercício | Descrição |
+|-----------|-----------|
+| `exercicio2.py` | Soma, média e comparação entre dois números |
+| `exercicio2_1.py` | Calculadora de desconto (%) |
+| `exercicio3.py` | Verificador de número par ou ímpar |
+
+---
+
+## 📊 Gráficos e Dados
+(Caso tenha imagens ou gráficos, você pode mostrar aqui assim:)
+
+![Exemplo de gráfico](imagens/grafico1.png)
