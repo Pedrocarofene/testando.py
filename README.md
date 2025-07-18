@@ -23,8 +23,3 @@
 | `exercicio3.py` | Verificador de número par ou ímpar |
 
 ---
-
-## 📊 Gráficos e Dados
-(Caso tenha imagens ou gráficos, você pode mostrar aqui assim:)
-
-![Exemplo de gráfico](imagens/grafico1.png)
